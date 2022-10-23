@@ -2,8 +2,8 @@
 # Campfire
 Used for cooking "Quick Meals". Increases the temperature in a small area while burning.
 ## Variations
-Scrap Metal
-Stone
+- Scrap Metal
+- Stone
 ## Unlock
 This item is unlocked at start of game
 ## Requirements
