@@ -20,7 +20,7 @@ Applied over floors for styling and customization.
 - Cloth - 2
 ### Leather Carpet
 - Leathers - 2
-## Skinbark Carpet
+### Skinbark Carpet
 - Skinbark - 2
 ### Ceramic Tiles
 - Stone - 2
