@@ -1,11 +1,13 @@
-About - 
- Provides light while seeded with Glitter Caps.
- 
-Integrity - 100
- 
-Construction Materials - 
+# About
+Provides light while seeded with Glitter Caps.
+## Variations
+- None
+## Unlock
+- Collect Glitter Caps
+## Requirements
+### Shroom Torch
 - Glitter Caps - 10
 - Stone - 10
- 
-Unlock - 
- Collect Glitter Caps
+## Other Information
+### Consumes
+- Glitter Caps - 10
