@@ -1,5 +1,51 @@
-SUV - #spawnvehicle BP_SUP
-SUV Blue With Black Stripes - #spawnvehicle BP_SUV_01_A 
-SUV Police - #spawnvehicle BP_SUV_01_C
-SUV Police With Extras - #spawnvehicle BP_SUV_01_D
-SUV Black With Extras - #spawnvehicle BP_SUV_01_E
+SUP - #spawnvehicle BP_SUP
+SUV - Blue With Black Stripes - #spawnvehicle BP_SUV_01_A
+SUV - Orange - #spawnvehicle BP_SUV_01_B
+SUV - Police - #spawnvehicle BP_SUV_01_C
+SUV - Police With Extras - #spawnvehicle BP_SUV_01_D
+SUV - Black With Extras - #spawnvehicle BP_SUV_01_E
+Cruiser Bike - Black - #spawnvehicle BP_Cruiser_01 
+Cruiser Bike - Purple - #spawnvehicle BP_Cruiser_B  
+Cruiser Bike - Red - #spawnvehicle BP_Cruiser_C 
+Cruiser Bike - Blue - #spawnvehicle BP_Cruiser_D
+Cruiser Bike - Green - #spawnvehicle BP_Cruiser_E
+Quad - Yellow - #spawnvehicle BP_Quad_01_A  
+Quad - Blue - #spawnvehicle BP_Quad_01_B  
+Quad - Orange - #spawnvehicle BP_Quad_01_C 
+Quad - Camo - #spawnvehicle BP_Quad_01_D  
+Dirtbike - Red - #spawnvehicle BP_Dirtbike_A
+Dirtbike - Black - #spawnvehicle BP_Dirtbike_B
+Dirtbike - Blue - #spawnvehicle BP_Dirtbike_C
+Dirtbike - Green - #spawnvehicle BP_Dirtbike_D
+Dirtbike - Yellow - #spawnvehicle BP_Dirtbike_E
+Dirtbike - White - #spawnvehicle BP_Dirtbike_F
+Dirtbike - Hellriders - #spawnvehicle BP_Dirtbike_Hellriders
+Pickup - Orange With Stripes - #spawnvehicle BP_Pickup_01_A
+Pickup - Black - #spawnvehicle BP_Pickup_01_B
+Pickup - Blue - #spawnvehicle BP_Pickup_01_C
+Pickup - Red - #spawnvehicle BP_Pickup_01_D
+Pickup - White With Design - #spawnvehicle BP_Pickup_01_E
+Pickup - Camo - #spawnvehicle BP_Pickup_01_F
+Pickup - Red With Stripes - #spawnvehicle BP_Pickup_01_G
+Pickup - Hellriders - #spawnvehicle BP_Pickup_01_Hellriders
+Tractor - Red With Basket - #spawnvehicle BP_Tractor_01_A 
+Sportbike - Blue - #spawnvehicle BP_Sportbike_01
+Motorboat - Black Rubber - #spawnvehicle BP_Motorboat_02
+Snow Sledge - REMOVED - CANT FIND SPAWN CODE
+Kinglet Scout - Red With White Design - #spawnvehicle BP_Kinglet_Scout
+Kinglet Duster - Blue With Yellow Wings - #spawnvehicle BP_Kinglet_Duster 
+Kinglet Mariner - Red With White Design - #spawnvehicle BP_Kinglet_Mariner
+Metal Wheelbarrow - #spawnvehicle BP_WheelBarrow_01
+Improvised Wheelbarrow - #spawnvehicle BP_WheelBarrow_02 
+Motorboat - Black And Red Wood - #spawnvehicle BPC_MotorBoat_01_A
+Motorboat - Green And Red Wood - #spawnvehicle BPC_MotorBoat_01_B
+Motorboat - Blue And Red Wood - #spawnvehicle BPC_MotorBoat_01_C 
+Motorboat - Brown And Red Wood - #spawnvehicle BPC_MotorBoat_01_D
+Bicycle - City Bike Blue - #spawnvehicle BP_Bicycle_CityBike_Blue
+Bicycle - City Bike Red - #spawnvehicle BPC_Bicycle_CityBike_Red
+Bicycle - Mountain Bike Red - #spawnvehicle BPC_Bicycle_Mountain_Bike_Red  
+Bicycle - Mountain Bike Blue - #spawnvehicle BP_Bicycle_Mountain_Bike_Blue
+Bicycle - Mountain Bike White - #spawnvehicle BPC_Bicycle_Mountain_Bike_White
+Bicycle - Mountain Bike Green - #spawnvehicle BPC_Bicycle_Mountain_Bike_Green
+Improvised Raft - Small - #spawnVehicle BP_Improvised_Raft_Small 
+Improvised Raft - Big - #spawnVehicle BP_Improvised_Raft_Big 
