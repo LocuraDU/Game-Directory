@@ -1,55 +1,59 @@
-Colt M1911 - #spawnitem BPC_Weapon_M1911
-Colt M1911 JayW - #spawnitem BPC_Weapon_M1911_JayW
-Colt M1911 Gold - #spawnitem BPC_Weapon_M1911_Gold
-Colt M1911 Engraved - #spawnitem BPC_Weapon_M1911_Engraved
-TsNIITochMash AS Val - #spawnitem BP_Weapon_AS_Val 
-Barrett M82A1 Silver - #spawnitem BP_Weapon_M82A1 
-Barrett M82A1 Snow - #spawnitem BPC_Weapon_M82A1_Snow 
-Barrett M82A1 Desert - #spawnitem BPC_Weapon_M82A1_Desert 
-Barrett M82A1 Black - #spawnitem BPC_Weapon_M82A1_Black 
-Heckler & Koch MP5 - #spawnitem BP_Weapon_MP5 
-Heckler & Koch MP5 K - #spawnitem BPC_Weapon_MP5_K 
-Heckler & Koch MP5 SD - #spawnitem BPC_Weapon_MP5_SD 
-Accuracy International AWM Black - #spawnitem BP_Weapon_AWP 
-Accuracy International AWM Green - #spawnitem BP_Weapon_AWM_Green
-Accuracy International AWM Snake - #spawnitem BP_Weapon_AWM_Snake
-Accuracy International AWM Desert - #spawnitem BP_Weapon_AWP_Desert
+Colt M1911 - #spawnitem BPC_Weapon_M1911 - (Image:Yes)
+Colt M1911 JayW - #spawnitem BPC_Weapon_M1911_JayW - (Image:Yes)
+Colt M1911 Gold - #spawnitem BPC_Weapon_M1911_Gold - (Image:Yes)
+Colt M1911 Engraved - #spawnitem BPC_Weapon_M1911_Engraved - (Image:Yes)
+TsNIITochMash AS Val - #spawnitem BP_Weapon_AS_Val - (Image:Yes) 
+Barrett M82A1 Silver - #spawnitem BP_Weapon_M82A1 - (Image:Yes) 
+Barrett M82A1 Snow - #spawnitem BPC_Weapon_M82A1_Snow - (Image:Yes) 
+Barrett M82A1 Desert - #spawnitem BPC_Weapon_M82A1_Desert - (Image:Yes) 
+Barrett M82A1 Black - #spawnitem BPC_Weapon_M82A1_Black - (Image:Yes) 
+Heckler & Koch MP5 - #spawnitem BP_Weapon_MP5 - (Image:Yes) 
+Heckler & Koch MP5 K - #spawnitem BPC_Weapon_MP5_K - (Image:Yes) 
+Heckler & Koch MP5 SD - #spawnitem BPC_Weapon_MP5_SD - (Image:Yes) 
+Accuracy International AWM Black - #spawnitem BP_Weapon_AWP - (Image:Yes)
+Accuracy International AWM Green - #spawnitem BP_Weapon_AWM_Green - (Image:Yes)
+Accuracy International AWM Snake - #spawnitem BP_Weapon_AWM_Snake - (Image:Yes)
+Accuracy International AWM Desert - #spawnitem BP_Weapon_AWP_Desert - (Image:Yes)
 
 
 
 
 
 
-Tech01 M9
 AWP
 MP5
 HS-9
 HS SF19
-AK-47
-AK-15
-MK-18
+Kalashnikov AK-47
+Kalashnikov AK-47 Engraved
+Kalashnikov AK-15
+Daniel Defense MK18
 VHS 2
 VHS 2 CT
 VHS BG
+Colt M16
 M-16 A4
 M82A1
 DT11B
 M1187
 Sf19
-AKM
+Kalashnikov AKM
 M1887
 DT11B
-UMP45 
+Heckler & Koch UMP-45
 SDASS
 590A11
 VSS VZ
 Block 21
-AKS 74U
-RPK-74
+Kalashnikov AKS-74U
+Kalashnikov RPK-74
 Judge 44
 AWM
 AWM Green
 AWM Snake
 AWM Desert
-
-
+Karabiner 98k
+Mosin–Nagant M1891	
+M1 Garand
+SVD Dragunov
+Winchester Model 55
