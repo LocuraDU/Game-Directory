@@ -10,8 +10,10 @@ Barrett M82A1 Black - #spawnitem BPC_Weapon_M82A1_Black
 Heckler & Koch MP5 - #spawnitem BP_Weapon_MP5 
 Heckler & Koch MP5 K - #spawnitem BPC_Weapon_MP5_K 
 Heckler & Koch MP5 SD - #spawnitem BPC_Weapon_MP5_SD 
-
-
+Accuracy International AWM Black - #spawnitem BP_Weapon_AWP 
+Accuracy International AWM Green - #spawnitem BP_Weapon_AWM_Green
+Accuracy International AWM Snake - #spawnitem BP_Weapon_AWM_Snake
+Accuracy International AWM Desert - #spawnitem BP_Weapon_AWP_Desert
 
 
 
@@ -24,10 +26,30 @@ MP5
 HS-9
 HS SF19
 AK-47
+AK-15
 MK-18
+VHS 2
 VHS 2 CT
 VHS BG
 M-16 A4
 M82A1
 DT11B
 M1187
+Sf19
+AKM
+M1887
+DT11B
+UMP45 
+SDASS
+590A11
+VSS VZ
+Block 21
+AKS 74U
+RPK-74
+Judge 44
+AWM
+AWM Green
+AWM Snake
+AWM Desert
+
+
