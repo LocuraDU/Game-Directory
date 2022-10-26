@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":10.4,
+  "0-100 mph":35.5,
+  "0-60 mph":9.8,
+  "100-0 km/h":37.6,
+  "60-0 mph":112.2,
+  "60-100 mph":25.6,
+  "BoundingBox":[
+    [
+      -0.7025,
+      -1.627,
+      -0.373139
+    ],
+    [
+      1.0025,
+      2.04,
+      1.45814
+    ]
+  ],
+  "Braking G":1.045,
+  "Config Type":"Custom",
+  "Configuration":"Baja (M)",
+  "Description":"Extensively modified for off-road use, with a dual carb 1500cc engine",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":46,
+  "Performance Class":"5",
+  "Population":10,
+  "Power":91,
+  "PowerPeakRPM":"4650 - 5200",
+  "Propulsion":"ICE",
+  "Top Speed":45.39303008,
+  "Torque":145,
+  "TorquePeakRPM":"3850 - 4600",
+  "Transmission":"Manual",
+  "Value":29000,
+  "Weight":870,
+  "Weight/Power":9.56043956,
+  "Years":{
+    "max":1973,
+    "min":1968
+  },
+  "defaultPaintName1":"Arancione",
+  "defaultPaintName2":"Rosso Scarlatto",
+  "defaultPaintName3":"Giallo Savana"
+}

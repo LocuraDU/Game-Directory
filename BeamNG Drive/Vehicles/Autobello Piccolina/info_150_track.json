@@ -1,0 +1,49 @@
+{
+  "0-100 km/h":6.1,
+  "0-100 mph":16.1,
+  "0-200 km/h":35.6,
+  "0-60 mph":5.8,
+  "100-0 km/h":26.8,
+  "100-200 km/h":29.5,
+  "60-0 mph":82.4,
+  "60-100 mph":10.3,
+  "BoundingBox":[
+    [
+      -0.65,
+      -1.535,
+      -0.21524
+    ],
+    [
+      0.95,
+      2.06,
+      1.215
+    ]
+  ],
+  "Braking G":1.467,
+  "Config Type":"Factory",
+  "Configuration":"150 Corse Track (M)",
+  "Description":"Factory-built race car with a roll cage and racing upgrades",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":28,
+  "Performance Class":"5",
+  "Population":3,
+  "Power":128,
+  "PowerPeakRPM":"4900 - 5450",
+  "Propulsion":"ICE",
+  "Top Speed":55.97817398,
+  "Torque":190,
+  "TorquePeakRPM":"4400 - 5050",
+  "Transmission":"Manual",
+  "Value":35000,
+  "Weight":755,
+  "Weight/Power":5.8984375,
+  "Years":{
+    "max":1973,
+    "min":1967
+  },
+  "defaultPaintName1":"Alabastro",
+  "defaultPaintName2":"Verde Vibrante",
+  "defaultPaintName3":"Rosso Fuoco"
+}

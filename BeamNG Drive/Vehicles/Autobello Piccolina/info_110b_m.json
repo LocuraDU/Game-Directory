@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":23.7,
+  "0-60 mph":21.5,
+  "100-0 km/h":35.9,
+  "60-0 mph":109.4,
+  "BoundingBox":[
+    [
+      -0.595,
+      -1.51,
+      -0.21724
+    ],
+    [
+      0.905,
+      1.98,
+      1.215
+    ]
+  ],
+  "Braking G":1.094,
+  "Config Type":"Factory",
+  "Configuration":"110 B (M)",
+  "Description":"Later base model with 1100cc engine and stiffer front sway bar",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":45,
+  "Performance Class":"2",
+  "Population":800,
+  "Power":34,
+  "PowerPeakRPM":"2850 - 3450",
+  "Propulsion":"ICE",
+  "Top Speed":31.8002102,
+  "Torque":95,
+  "TorquePeakRPM":"1700 - 2500",
+  "Transmission":"Manual",
+  "Value":6600,
+  "Weight":740,
+  "Weight/Power":21.76470588,
+  "Years":{
+    "max":1973,
+    "min":1969
+  },
+  "defaultPaintName1":"Bordeaux"
+}

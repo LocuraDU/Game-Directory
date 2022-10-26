@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":17.3,
+  "0-60 mph":16.1,
+  "100-0 km/h":33.2,
+  "60-0 mph":100.6,
+  "BoundingBox":[
+    [
+      -0.605,
+      -1.545,
+      -0.21524
+    ],
+    [
+      0.905,
+      1.98,
+      1.215
+    ]
+  ],
+  "Braking G":1.183,
+  "Config Type":"Factory",
+  "Configuration":"130 A (M)",
+  "Description":"Premium model with 1300cc engine, front disc brakes, sport front sway bar, and larger wheels",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":45,
+  "Performance Class":"3",
+  "Population":900,
+  "Power":45,
+  "PowerPeakRPM":"3350 - 4050",
+  "Propulsion":"ICE",
+  "Top Speed":35.82861928,
+  "Torque":110,
+  "TorquePeakRPM":"1650 - 2450",
+  "Transmission":"Manual",
+  "Value":9000,
+  "Weight":735,
+  "Weight/Power":16.33333333,
+  "Years":{
+    "max":1968,
+    "min":1964
+  },
+  "defaultPaintName1":"Blu Tropicale"
+}

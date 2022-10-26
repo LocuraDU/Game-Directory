@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":9,
+  "0-100 mph":26.5,
+  "0-60 mph":8.6,
+  "100-0 km/h":30,
+  "60-0 mph":92.8,
+  "60-100 mph":17.9,
+  "BoundingBox":[
+    [
+      -0.65,
+      -1.535,
+      -0.21524
+    ],
+    [
+      0.95,
+      1.91,
+      1.215
+    ]
+  ],
+  "Braking G":1.311,
+  "Config Type":"Factory",
+  "Configuration":"150 Corse (M)",
+  "Description":"Special factory build sold to private race teams",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":32,
+  "Performance Class":"5",
+  "Population":50,
+  "Power":91,
+  "PowerPeakRPM":"4650 - 5200",
+  "Propulsion":"ICE",
+  "Top Speed":48.02269756,
+  "Torque":145,
+  "TorquePeakRPM":"3850 - 4600",
+  "Transmission":"Manual",
+  "Value":28000,
+  "Weight":735,
+  "Weight/Power":8.076923077,
+  "Years":{
+    "max":1973,
+    "min":1967
+  },
+  "defaultPaintName1":"Rosso Scarlatto",
+  "defaultPaintName2":"Carbone"
+}

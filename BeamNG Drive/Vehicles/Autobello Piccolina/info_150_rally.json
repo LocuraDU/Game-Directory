@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":9.6,
+  "0-100 mph":24.4,
+  "0-60 mph":9.2,
+  "100-0 km/h":32.6,
+  "60-0 mph":98.4,
+  "60-100 mph":15.2,
+  "BoundingBox":[
+    [
+      -0.615,
+      -1.46,
+      -0.22224
+    ],
+    [
+      0.915,
+      2.14,
+      1.215
+    ]
+  ],
+  "Braking G":1.207,
+  "Config Type":"Rally",
+  "Configuration":"150 Corse Rally - Gravel (M)",
+  "Description":"Factory-built rally car with a roll cage and rally upgrades",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":46,
+  "Performance Class":"5",
+  "Population":8,
+  "Power":91,
+  "PowerPeakRPM":"4650 - 5200",
+  "Propulsion":"ICE",
+  "Top Speed":47.8020011,
+  "Torque":145,
+  "TorquePeakRPM":"3850 - 4600",
+  "Transmission":"Manual",
+  "Value":36000,
+  "Weight":755,
+  "Weight/Power":8.296703297,
+  "Years":{
+    "max":1973,
+    "min":1967
+  },
+  "defaultPaintName1":"Bianco Perla",
+  "defaultPaintName2":"Blu Ghiaccio",
+  "defaultPaintName3":"Giallo Solare"
+}

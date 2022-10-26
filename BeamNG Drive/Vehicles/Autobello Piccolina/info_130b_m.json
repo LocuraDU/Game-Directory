@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":13.8,
+  "0-60 mph":12.7,
+  "100-0 km/h":34.5,
+  "60-0 mph":104.6,
+  "BoundingBox":[
+    [
+      -0.615,
+      -1.51,
+      -0.21524
+    ],
+    [
+      0.915,
+      1.965,
+      1.215
+    ]
+  ],
+  "Braking G":1.14,
+  "Config Type":"Factory",
+  "Configuration":"130 B (M)",
+  "Description":"Later premium model with 1300cc engine, front disc brakes, sport front sway bar, wider fenders, and special staggered alloy wheels",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":35,
+  "Performance Class":"3",
+  "Population":400,
+  "Power":62,
+  "PowerPeakRPM":"4750 - 5250",
+  "Propulsion":"ICE",
+  "Top Speed":41.76501851,
+  "Torque":100,
+  "TorquePeakRPM":"1750 - 3950",
+  "Transmission":"Manual",
+  "Value":10000,
+  "Weight":740,
+  "Weight/Power":11.93548387,
+  "Years":{
+    "max":1973,
+    "min":1969
+  },
+  "defaultPaintName1":"Blu Baia"
+}

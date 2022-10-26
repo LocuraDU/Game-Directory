@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":24.8,
+  "0-60 mph":22.5,
+  "100-0 km/h":36.5,
+  "60-0 mph":108.4,
+  "BoundingBox":[
+    [
+      -0.595,
+      -1.51,
+      -0.22824
+    ],
+    [
+      0.905,
+      1.98,
+      1.215
+    ]
+  ],
+  "Braking G":1.078,
+  "Config Type":"Factory",
+  "Configuration":"Tricolore (M)",
+  "Description":"Base model with 1100cc engine, and a gorgeous Tricolore livery",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":46,
+  "Performance Class":"2",
+  "Population":50,
+  "Power":34,
+  "PowerPeakRPM":"2850 - 3450",
+  "Propulsion":"ICE",
+  "Top Speed":31.7706921,
+  "Torque":95,
+  "TorquePeakRPM":"1700 - 2500",
+  "Transmission":"Manual",
+  "Value":8000,
+  "Weight":740,
+  "Weight/Power":21.76470588,
+  "Years":{
+    "max":1963,
+    "min":1957
+  },
+  "defaultPaintName1":"Argento"
+}

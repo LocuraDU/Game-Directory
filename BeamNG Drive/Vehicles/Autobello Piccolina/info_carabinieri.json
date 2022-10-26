@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":18.7,
+  "0-60 mph":17.3,
+  "100-0 km/h":34.9,
+  "60-0 mph":106.1,
+  "BoundingBox":[
+    [
+      -0.605,
+      -1.545,
+      -0.22824
+    ],
+    [
+      0.905,
+      1.98,
+      1.322
+    ]
+  ],
+  "Braking G":1.127,
+  "Config Type":"Police",
+  "Configuration":"Carabinieri (M)",
+  "Description":"Model for the national gendarmerie of Italy, with a 1300cc engine",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":46,
+  "Performance Class":"3",
+  "Population":10,
+  "Power":45,
+  "PowerPeakRPM":"3350 - 4050",
+  "Propulsion":"ICE",
+  "Top Speed":35.58947026,
+  "Torque":110,
+  "TorquePeakRPM":"1650 - 2450",
+  "Transmission":"Manual",
+  "Value":10000,
+  "Weight":750,
+  "Weight/Power":16.66666667,
+  "Years":{
+    "max":1963,
+    "min":1957
+  },
+  "defaultPaintName1":"Bianco Perla"
+}

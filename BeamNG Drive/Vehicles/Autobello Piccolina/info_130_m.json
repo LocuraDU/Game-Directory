@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":18.3,
+  "0-60 mph":16.9,
+  "100-0 km/h":34.7,
+  "60-0 mph":105.5,
+  "BoundingBox":[
+    [
+      -0.605,
+      -1.545,
+      -0.22824
+    ],
+    [
+      0.905,
+      1.98,
+      1.215
+    ]
+  ],
+  "Braking G":1.133,
+  "Config Type":"Factory",
+  "Configuration":"130 (M)",
+  "Description":"Premium model with 1300cc engine, front disc brakes, and nicer hubcaps",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":46,
+  "Performance Class":"3",
+  "Population":300,
+  "Power":45,
+  "PowerPeakRPM":"3350 - 4050",
+  "Propulsion":"ICE",
+  "Top Speed":35.72395936,
+  "Torque":110,
+  "TorquePeakRPM":"1650 - 2450",
+  "Transmission":"Manual",
+  "Value":8000,
+  "Weight":740,
+  "Weight/Power":16.44444444,
+  "Years":{
+    "max":1963,
+    "min":1957
+  },
+  "defaultPaintName1":"Arancione"
+}
