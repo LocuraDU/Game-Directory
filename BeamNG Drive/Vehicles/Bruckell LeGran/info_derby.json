@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":12.5,
+  "0-100 mph":49.8,
+  "0-60 mph":11.8,
+  "100-0 km/h":39.6,
+  "60-0 mph":118.8,
+  "60-100 mph":38,
+  "BoundingBox":[
+    [
+      -0.545,
+      -2.11,
+      -0.225
+    ],
+    [
+      1.205,
+      2.73,
+      1.2
+    ]
+  ],
+  "Braking G":0.992,
+  "Config Type":"Custom",
+  "Configuration":"The Atrocious (M)",
+  "Description":"Rocking a home-made roll cage, welded doors and a reinforced front end, this LeGran has finally found its calling",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":34,
+  "Performance Class":"4",
+  "Population":100,
+  "Power":101,
+  "PowerPeakRPM":"4500 - 5250",
+  "Propulsion":"ICE",
+  "Top Speed":47.40085253,
+  "Torque":175,
+  "TorquePeakRPM":"2800 - 3750",
+  "Transmission":"Manual",
+  "Value":600,
+  "Weight":1375,
+  "Weight/Power":13.61386139,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Uncomfortable Pink",
+  "defaultPaintName2":"Charcoal",
+  "defaultPaintName3":"Straw Yellow"
+}

@@ -1,0 +1,44 @@
+{
+  "0-100 km/h":7,
+  "0-100 mph":19.5,
+  "0-200 km/h":52.2,
+  "0-60 mph":6.6,
+  "100-0 km/h":34,
+  "100-200 km/h":45.2,
+  "60-0 mph":103.1,
+  "60-100 mph":12.9,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.211
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":1.157,
+  "Config Type":"Rally",
+  "Configuration":"Rally (M)",
+  "Description":"Fitted with rally suspension and a supercharged 2.5L I4 engine",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":27,
+  "Population":10,
+  "Power":192,
+  "PowerPeakRPM":"5050 - 5900",
+  "Propulsion":"ICE",
+  "Top Speed":56.75376469,
+  "Torque":315,
+  "TorquePeakRPM":"3200 - 4000",
+  "Transmission":"Manual",
+  "Value":11000,
+  "Weight":1465,
+  "Weight/Power":7.630208333,
+  "defaultPaintName1":"Seaside Blue",
+  "defaultPaintName2":"Silver",
+  "defaultPaintName3":"Cream"
+}

@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":9.4,
+  "0-100 mph":23.3,
+  "0-200 km/h":57.5,
+  "0-60 mph":8.9,
+  "100-0 km/h":38,
+  "100-200 km/h":48.1,
+  "60-0 mph":116.2,
+  "60-100 mph":14.4,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.223
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":1.035,
+  "Config Type":"Factory",
+  "Configuration":"Sport S V6 (M)",
+  "Description":"Sport model, equipped with an upgraded 3.8 liter V6, sport suspension, alloy wheels, and anti-lock brakes",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"5",
+  "Population":900,
+  "Power":170,
+  "PowerPeakRPM":"4700 - 5300",
+  "Propulsion":"ICE",
+  "Top Speed":55.55747463,
+  "Torque":275,
+  "TorquePeakRPM":"3150 - 4050",
+  "Transmission":"Manual",
+  "Value":5200,
+  "Weight":1475,
+  "Weight/Power":8.676470588,
+  "defaultPaintName1":"Scarlet Red"
+}

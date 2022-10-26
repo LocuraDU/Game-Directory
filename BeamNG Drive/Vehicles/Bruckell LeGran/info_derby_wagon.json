@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":10.3,
+  "0-100 mph":29.3,
+  "0-60 mph":9.7,
+  "100-0 km/h":40.2,
+  "60-0 mph":123.6,
+  "60-100 mph":19.5,
+  "BoundingBox":[
+    [
+      -0.56,
+      -2.13,
+      -0.225
+    ],
+    [
+      1.22,
+      2.73,
+      1.2
+    ]
+  ],
+  "Braking G":0.977,
+  "Config Type":"Custom",
+  "Configuration":"The Objectionable (M)",
+  "Description":"Bigger, badder, heavier.",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":34,
+  "Performance Class":"4",
+  "Population":100,
+  "Power":143,
+  "PowerPeakRPM":"4700 - 5550",
+  "Propulsion":"ICE",
+  "Top Speed":54.21125221,
+  "Torque":230,
+  "TorquePeakRPM":"3050 - 4200",
+  "Transmission":"Manual",
+  "Value":800,
+  "Weight":1485,
+  "Weight/Power":10.38461538,
+  "defaultPaintName1":"Flame Orange",
+  "defaultPaintName2":"Charcoal",
+  "defaultPaintName3":"Cream"
+}

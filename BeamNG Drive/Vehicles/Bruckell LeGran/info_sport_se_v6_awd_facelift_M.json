@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":8.6,
+  "0-100 mph":19.1,
+  "0-200 km/h":37.1,
+  "0-60 mph":8.2,
+  "100-0 km/h":37,
+  "100-200 km/h":28.4,
+  "60-0 mph":113,
+  "60-100 mph":10.9,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.202
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":1.062,
+  "Config Type":"Factory",
+  "Configuration":"Sport SE V6 AWD (Facelift) (M)",
+  "Description":"Highest performance model, equipped with a supercharged 3.8 liter V6, all-wheel-drive, sport suspension, alloy wheels, and anti-lock brakes",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":34,
+  "Performance Class":"5",
+  "Population":120,
+  "Power":223,
+  "PowerPeakRPM":"4550 - 5200",
+  "Propulsion":"ICE",
+  "Top Speed":61.29467997,
+  "Torque":360,
+  "TorquePeakRPM":"3400 - 4250",
+  "Transmission":"Manual",
+  "Value":7700,
+  "Weight":1555,
+  "Weight/Power":6.97309417,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Silver"
+}

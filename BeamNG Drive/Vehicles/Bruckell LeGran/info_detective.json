@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":9.6,
+  "0-100 mph":24.6,
+  "0-60 mph":9.1,
+  "100-0 km/h":38.1,
+  "60-0 mph":116.4,
+  "60-100 mph":15.4,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.18,
+      -0.222
+    ],
+    [
+      1.315,
+      2.735,
+      1.61
+    ]
+  ],
+  "Braking G":1.033,
+  "Config Type":"Police",
+  "Configuration":"Detective Special (Facelift) (M)",
+  "Description":"Stealthy police model with sport suspension and powerful 3.8L V6",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":20,
+  "Power":170,
+  "PowerPeakRPM":"4700 - 5300",
+  "Propulsion":"ICE",
+  "Top Speed":55.07486441,
+  "Torque":275,
+  "TorquePeakRPM":"3150 - 4050",
+  "Transmission":"Manual",
+  "Value":7800,
+  "Weight":1515,
+  "Weight/Power":8.911764706,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Charcoal"
+}

@@ -1,0 +1,42 @@
+{
+  "0-100 km/h":13.8,
+  "0-60 mph":12.9,
+  "100-0 km/h":41.4,
+  "60-0 mph":127.3,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.18,
+      -0.225
+    ],
+    [
+      1.315,
+      2.735,
+      2.04
+    ]
+  ],
+  "Braking G":0.95,
+  "Config Type":"Factory",
+  "Configuration":"Taxi Wagon (A)",
+  "Description":"Fitted with taxi equipment and a 2.5L I4",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"2",
+  "Population":2000,
+  "Power":102,
+  "PowerPeakRPM":"4150 - 5700",
+  "Propulsion":"ICE",
+  "Tags":[
+    "taxi"
+  ],
+  "Top Speed":44.57687231,
+  "Torque":190,
+  "TorquePeakRPM":"2750 - 3650",
+  "Transmission":"Automatic",
+  "Value":2900,
+  "Weight":1535,
+  "Weight/Power":15.04901961,
+  "defaultPaintName1":"Pearl White"
+}

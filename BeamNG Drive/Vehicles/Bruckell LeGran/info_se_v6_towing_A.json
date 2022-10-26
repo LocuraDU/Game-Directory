@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":9.2,
+  "0-100 mph":25.4,
+  "0-60 mph":8.7,
+  "100-0 km/h":39.5,
+  "60-0 mph":120.9,
+  "60-100 mph":16.7,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.223
+    ],
+    [
+      1.315,
+      2.8,
+      1.15
+    ]
+  ],
+  "Braking G":0.997,
+  "Config Type":"Factory",
+  "Configuration":"SE V6 Towing Package (A)",
+  "Description":"High end model, equipped with a 3.8 liter V6, anti-lock brakes, heavy duty rear suspension, shorter final drive, and a tow hitch",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":28,
+  "Performance Class":"4",
+  "Population":1600,
+  "Power":152,
+  "PowerPeakRPM":"4600 - 5200",
+  "Propulsion":"ICE",
+  "Top Speed":52.51080947,
+  "Torque":255,
+  "TorquePeakRPM":"3100 - 4000",
+  "Transmission":"Automatic",
+  "Value":4000,
+  "Weight":1485,
+  "Weight/Power":9.769736842,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Steel Gray"
+}

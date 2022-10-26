@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":7.5,
+  "0-100 mph":16.6,
+  "0-200 km/h":30.3,
+  "0-60 mph":7.1,
+  "100-0 km/h":33.3,
+  "100-200 km/h":22.8,
+  "60-0 mph":100.9,
+  "60-100 mph":9.4,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.03,
+      -0.215
+    ],
+    [
+      1.315,
+      2.655,
+      1.15
+    ]
+  ],
+  "Braking G":1.18,
+  "Config Type":"Custom",
+  "Configuration":"Custom (M)",
+  "Description":"Customized SE V6 with race suspension and aftermarket wheels",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC + N2O",
+  "Off-Road Score":21,
+  "Performance Class":"5",
+  "Population":10,
+  "Power":298,
+  "PowerPeakRPM":"4600 - 5250",
+  "Propulsion":"ICE",
+  "Top Speed":63.23858197,
+  "Torque":500,
+  "TorquePeakRPM":"3000 - 3900",
+  "Transmission":"Manual",
+  "Value":8500,
+  "Weight":1505,
+  "Weight/Power":5.05033557,
+  "defaultPaintName1":"Jet Black"
+}

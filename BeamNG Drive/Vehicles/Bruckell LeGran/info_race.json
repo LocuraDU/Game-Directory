@@ -1,0 +1,48 @@
+{
+  "0-100 km/h":5.7,
+  "0-100 mph":12.4,
+  "0-200 km/h":20.4,
+  "0-60 mph":5.5,
+  "100-0 km/h":27.4,
+  "100-200 km/h":14.6,
+  "60-0 mph":84.3,
+  "60-100 mph":6.8,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.03,
+      -0.207
+    ],
+    [
+      1.315,
+      2.655,
+      1.15
+    ]
+  ],
+  "Braking G":1.435,
+  "Config Type":"Race",
+  "Configuration":"Race (M)",
+  "Description":"Fitted with race suspension and a supercharged 3.8L V6 engine",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":21,
+  "Population":10,
+  "Power":312,
+  "PowerPeakRPM":"4650 - 5250",
+  "Propulsion":"ICE",
+  "Top Speed":66.29567754,
+  "Torque":490,
+  "TorquePeakRPM":"3550 - 4550",
+  "Transmission":"Manual",
+  "Value":14000,
+  "Weight":1475,
+  "Weight/Power":4.727564103,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Forest Green",
+  "defaultPaintName2":"Deep Plum",
+  "defaultPaintName3":"Cream"
+}

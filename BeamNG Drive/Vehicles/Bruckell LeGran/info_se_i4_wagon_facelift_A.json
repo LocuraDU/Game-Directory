@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":12.6,
+  "0-100 mph":45.8,
+  "0-60 mph":11.8,
+  "100-0 km/h":41.8,
+  "60-0 mph":125.8,
+  "60-100 mph":33.9,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.223
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":0.941,
+  "Config Type":"Factory",
+  "Configuration":"SE Wagon (Facelift) (A)",
+  "Description":"High end model, equipped with a 2.5 liter I4 and anti-lock brakes",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"3",
+  "Population":4000,
+  "Power":111,
+  "PowerPeakRPM":"5200 - 5800",
+  "Propulsion":"ICE",
+  "Top Speed":48.03849023,
+  "Torque":195,
+  "TorquePeakRPM":"2850 - 3700",
+  "Transmission":"Automatic",
+  "Value":3110,
+  "Weight":1500,
+  "Weight/Power":13.51351351,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Dusted Mica"
+}

@@ -1,0 +1,41 @@
+{
+  "0-100 km/h":12.2,
+  "0-100 mph":46.6,
+  "0-60 mph":11.5,
+  "100-0 km/h":39.3,
+  "60-0 mph":120.6,
+  "60-100 mph":35.1,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.225
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":1,
+  "Config Type":"Factory",
+  "Configuration":"SE (A)",
+  "Description":"High end model, equipped with a 2.5 liter I4 and anti-lock brakes",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"3",
+  "Population":4000,
+  "Power":111,
+  "PowerPeakRPM":"5200 - 5800",
+  "Propulsion":"ICE",
+  "Top Speed":47.8029578,
+  "Torque":195,
+  "TorquePeakRPM":"2850 - 3700",
+  "Transmission":"Automatic",
+  "Value":3050,
+  "Weight":1430,
+  "Weight/Power":12.88288288,
+  "defaultPaintName1":"Cream"
+}

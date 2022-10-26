@@ -1,0 +1,41 @@
+{
+  "0-100 km/h":13.6,
+  "0-100 mph":68.2,
+  "0-60 mph":12.7,
+  "100-0 km/h":39.8,
+  "60-0 mph":121.9,
+  "60-100 mph":55.4,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.225
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":0.989,
+  "Config Type":"Factory",
+  "Configuration":"Regulier (M)",
+  "Description":"Base model, equipped with a 2.2 liter I4",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"2",
+  "Population":3000,
+  "Power":95,
+  "PowerPeakRPM":"4400 - 5150",
+  "Propulsion":"ICE",
+  "Top Speed":45.28967609,
+  "Torque":170,
+  "TorquePeakRPM":"2700 - 3600",
+  "Transmission":"Manual",
+  "Value":2150,
+  "Weight":1430,
+  "Weight/Power":15.05263158,
+  "defaultPaintName1":"Chestnut"
+}

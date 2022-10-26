@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":12.1,
+  "0-100 mph":50.8,
+  "0-60 mph":11.3,
+  "100-0 km/h":45.4,
+  "60-0 mph":137.6,
+  "60-100 mph":39.4,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.18,
+      -0.23
+    ],
+    [
+      1.315,
+      2.8,
+      2.04
+    ]
+  ],
+  "Braking G":0.866,
+  "Config Type":"Service",
+  "Configuration":"Fire Chief (Facelift) (A)",
+  "Description":"Off road model fitted with a light bar, bullbar and spotlights",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":45,
+  "Population":500,
+  "Power":136,
+  "PowerPeakRPM":"4650 - 5450",
+  "Propulsion":"ICE",
+  "Tags":[
+    "fire"
+  ],
+  "Top Speed":46.78801645,
+  "Torque":225,
+  "TorquePeakRPM":"2850 - 4100",
+  "Transmission":"Automatic",
+  "Value":8450,
+  "Weight":1700,
+  "Weight/Power":12.5,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Pearl White"
+}

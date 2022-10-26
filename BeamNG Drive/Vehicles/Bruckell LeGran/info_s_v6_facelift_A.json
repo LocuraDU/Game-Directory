@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":10.3,
+  "0-100 mph":31.1,
+  "0-60 mph":9.7,
+  "100-0 km/h":41.6,
+  "60-0 mph":125.2,
+  "60-100 mph":21.4,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.223
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":0.945,
+  "Config Type":"Factory",
+  "Configuration":"S V6 (Facelift) (A)",
+  "Description":"Mid-trim model, equipped with a 3.3 liter V6",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":2000,
+  "Power":136,
+  "PowerPeakRPM":"4650 - 5450",
+  "Propulsion":"ICE",
+  "Top Speed":52.457865,
+  "Torque":225,
+  "TorquePeakRPM":"2850 - 4100",
+  "Transmission":"Automatic",
+  "Value":3525,
+  "Weight":1455,
+  "Weight/Power":10.69852941,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Deep Plum"
+}

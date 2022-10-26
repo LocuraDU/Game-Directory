@@ -1,0 +1,41 @@
+{
+  "0-100 km/h":12.7,
+  "0-100 mph":56.5,
+  "0-60 mph":11.9,
+  "100-0 km/h":39.5,
+  "60-0 mph":121,
+  "60-100 mph":44.6,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.225
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":0.997,
+  "Config Type":"Factory",
+  "Configuration":"S (A)",
+  "Description":"Mid-trim model, equipped with a 2.5 liter I4",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"3",
+  "Population":4000,
+  "Power":102,
+  "PowerPeakRPM":"4150 - 5700",
+  "Propulsion":"ICE",
+  "Top Speed":46.28171822,
+  "Torque":190,
+  "TorquePeakRPM":"2750 - 3650",
+  "Transmission":"Automatic",
+  "Value":2400,
+  "Weight":1425,
+  "Weight/Power":13.97058824,
+  "defaultPaintName1":"Carbon Gray"
+}

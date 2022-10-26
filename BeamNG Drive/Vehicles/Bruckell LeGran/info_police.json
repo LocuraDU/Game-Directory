@@ -1,0 +1,41 @@
+{
+  "0-100 km/h":11.1,
+  "0-100 mph":40.4,
+  "0-60 mph":10.4,
+  "100-0 km/h":41.3,
+  "60-0 mph":126.9,
+  "60-100 mph":30,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.18,
+      -0.225
+    ],
+    [
+      1.315,
+      2.735,
+      1.61
+    ]
+  ],
+  "Braking G":0.952,
+  "Config Type":"Police",
+  "Configuration":"Police Package (A)",
+  "Description":"Basic model fitted with police equipment and a 3.3L V6 engine",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":50,
+  "Power":136,
+  "PowerPeakRPM":"4650 - 5450",
+  "Propulsion":"ICE",
+  "Top Speed":48.78995682,
+  "Torque":225,
+  "TorquePeakRPM":"2850 - 4100",
+  "Transmission":"Automatic",
+  "Value":3000,
+  "Weight":1535,
+  "Weight/Power":11.28676471,
+  "defaultPaintName1":"Pearl White"
+}

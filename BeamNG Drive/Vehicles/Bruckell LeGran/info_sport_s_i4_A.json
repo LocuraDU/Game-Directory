@@ -1,0 +1,41 @@
+{
+  "0-100 km/h":11.4,
+  "0-100 mph":38.9,
+  "0-60 mph":10.7,
+  "100-0 km/h":38.1,
+  "60-0 mph":113.6,
+  "60-100 mph":28.1,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.223
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":1.033,
+  "Config Type":"Factory",
+  "Configuration":"Sport S (A)",
+  "Description":"Equipped with an upgraded 2.5L inline 4 engine, sport suspension, alloy wheels, and anti-lock brakes",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"5",
+  "Population":750,
+  "Power":115,
+  "PowerPeakRPM":"5250 - 5800",
+  "Propulsion":"ICE",
+  "Top Speed":48.98683342,
+  "Torque":200,
+  "TorquePeakRPM":"2900 - 3750",
+  "Transmission":"Automatic",
+  "Value":4100,
+  "Weight":1425,
+  "Weight/Power":12.39130435,
+  "defaultPaintName1":"Quicksilver"
+}

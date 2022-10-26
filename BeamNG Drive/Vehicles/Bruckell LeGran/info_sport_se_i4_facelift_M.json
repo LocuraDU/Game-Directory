@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":9.2,
+  "0-100 mph":23.6,
+  "0-200 km/h":71.4,
+  "0-60 mph":8.8,
+  "100-0 km/h":37.8,
+  "100-200 km/h":62.1,
+  "60-0 mph":115.5,
+  "60-100 mph":14.8,
+  "BoundingBox":[
+    [
+      -0.655,
+      -2.07,
+      -0.222
+    ],
+    [
+      1.315,
+      2.735,
+      1.15
+    ]
+  ],
+  "Braking G":1.04,
+  "Config Type":"Factory",
+  "Configuration":"Sport SE (Facelift) (M)",
+  "Description":"Sport model with a supercharged 2.5 liter inline 4 engine, stiffer springs and shocks and a stealthy appearance",
+  "Drivetrain":"FWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":27,
+  "Performance Class":"5",
+  "Population":350,
+  "Power":160,
+  "PowerPeakRPM":"5000 - 5800",
+  "Propulsion":"ICE",
+  "Top Speed":55.92198907,
+  "Torque":270,
+  "TorquePeakRPM":"3100 - 3950",
+  "Transmission":"Manual",
+  "Value":6900,
+  "Weight":1440,
+  "Weight/Power":9,
+  "Years":{
+    "max":1993,
+    "min":1989
+  },
+  "defaultPaintName1":"Bermuda Blue"
+}
