@@ -22,7 +22,9 @@ Accuracy International AWP Green - #spawnitem BP_Weapon_AWP_Green - (Image:)
 Accuracy International AWP Snake - #spawnitem BP_Weapon_AWP_Snake - (Image:)
 Accuracy International AWP Desert - #spawnitem BP_Weapon_AWP_Desert - (Image:)
 Beretta M9 Black - #spawnitem BP_Weapon_M9  
-Beretta M9 Silver - #spawnitem BPC_Weapon_M9_Silver   
+Beretta M9 Silver - #spawnitem BPC_Weapon_M9_Silver 
+Beretta DT11B - #spawnitem BP_Weapon_DT11B 
+Beretta DT11B Short "The Mule" - #spawnitem BPC_Weapon_DT11B_Sawed_Off 
 Glock 21 - #spawnitem BP_Weapon_Block2 
 Glock 21 Bay Riffer - #spawnitem BPC_Weapon_BayRifferBlock21 
 Desert Eagle .50 Silver - #spawnitem BP_Weapon_DEagle_50	
@@ -40,8 +42,6 @@ Kalashnikov AKM - #spawnitem BPC_Weapon_AKM
 Kalashnikov RPK-74 - #spawnitem BPC_Weapon_RPK-74
 Kalashnikov SVD Dragunov - #spawnitem BP_Weapon_SVD_Dragunov
 Daniel Defense MK18 - #spawnitem BP_Weapon_MK18
-Beretta DT11B - #spawnitem BP_Weapon_DT11B 
-Beretta DT11B Short "The Mule" - #spawnitem BPC_Weapon_DT11B_Sawed_Off 
 Winchester M1887 - #spawnitem BP_Weapon_M1887 
 Winchester M1887 Sawed Off - #spawnitem BPC_Weapon_M1887_Sawed_off 
 Winchester Model 55 - #SpawnItem BP_Weapon_Hunter85 (REMOVED FROM GAME) 
