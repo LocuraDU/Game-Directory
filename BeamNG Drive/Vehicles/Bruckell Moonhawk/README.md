@@ -1,4 +1,9 @@
 # Vehicles Notes
+### October 18, 2022
+- Fixed normals on interior materials
+### September 19, 2022
+- Updated Interior materials to PBR
+- Updated “Donk” config with pink custom interior
 ### September 11, 2013
 - First Release
 # Vehicle Model Images
