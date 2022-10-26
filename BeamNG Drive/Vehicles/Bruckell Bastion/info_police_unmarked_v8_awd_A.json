@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":5.3,
+  "0-100 mph":12.4,
+  "0-200 km/h":20.7,
+  "0-60 mph":5.1,
+  "100-0 km/h":40.9,
+  "100-200 km/h":15.3,
+  "60-0 mph":122.7,
+  "60-100 mph":7.3,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.298,
+      -0.223
+    ],
+    [
+      1.265,
+      2.937,
+      1.437
+    ]
+  ],
+  "Braking G":0.962,
+  "Config Type":"Factory",
+  "Configuration":"Police (Unmarked) 5.7 AWD (A)",
+  "Description":"Generates more revenue than the standard Police version",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":28,
+  "Performance Class":"4",
+  "Population":50,
+  "Power":369,
+  "PowerPeakRPM":"4950 - 5600",
+  "Propulsion":"ICE",
+  "Top Speed":56.09720751,
+  "Torque":545,
+  "TorquePeakRPM":"3750 - 4750",
+  "Transmission":"Automatic",
+  "Value":48100,
+  "Weight":2075,
+  "Weight/Power":5.623306233,
+  "defaultPaintName1":"Carbon Gray"
+}

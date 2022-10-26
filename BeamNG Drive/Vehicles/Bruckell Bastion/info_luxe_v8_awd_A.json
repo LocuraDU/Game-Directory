@@ -1,0 +1,42 @@
+{
+  "0-100 km/h":5.3,
+  "0-100 mph":12.1,
+  "0-200 km/h":19.9,
+  "0-60 mph":5,
+  "100-0 km/h":36.9,
+  "100-200 km/h":14.6,
+  "60-0 mph":112.6,
+  "60-100 mph":7.1,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.233
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":1.067,
+  "Config Type":"Factory",
+  "Configuration":"Luxe 5.7 AWD (A)",
+  "Description":"Luxury trim with alloy wheels, sold to the general public",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":34,
+  "Population":8000,
+  "Power":369,
+  "PowerPeakRPM":"4950 - 5600",
+  "Propulsion":"ICE",
+  "Top Speed":56.41544006,
+  "Torque":545,
+  "TorquePeakRPM":"3750 - 4750",
+  "Transmission":"Automatic",
+  "Value":42600,
+  "Weight":2055,
+  "Weight/Power":5.569105691,
+  "defaultPaintName1":"Fortuna Blue"
+}

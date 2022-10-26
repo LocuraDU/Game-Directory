@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":4.6,
+  "0-100 mph":8.1,
+  "0-200 km/h":11.4,
+  "0-200 mph":46.7,
+  "0-300 km/h":29.3,
+  "0-60 mph":4.5,
+  "100-0 km/h":35.8,
+  "100-200 km/h":6.7,
+  "60-0 mph":108.9,
+  "60-100 mph":3.5,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.178,
+      -0.223
+    ],
+    [
+      1.265,
+      2.972,
+      1.252
+    ]
+  ],
+  "Braking G":1.1,
+  "Config Type":"Factory",
+  "Configuration":"Redtail (A)",
+  "Description":"Like the Battlehawk, but more so",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":25,
+  "Population":1000,
+  "Power":819,
+  "PowerPeakRPM":"5250 - 5900",
+  "Propulsion":"ICE",
+  "Top Speed":92.24685754,
+  "Torque":1155,
+  "TorquePeakRPM":"3700 - 4850",
+  "Transmission":"Automatic",
+  "Value":73200,
+  "Weight":2115,
+  "Weight/Power":2.582417582,
+  "defaultPaintName1":"Jet Black",
+  "defaultPaintName2":"Satin Red",
+  "defaultPaintName3":"Satin Gray"
+}

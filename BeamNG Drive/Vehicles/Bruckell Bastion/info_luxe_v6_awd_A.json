@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":6.6,
+  "0-100 mph":16,
+  "0-200 km/h":29.4,
+  "0-60 mph":6.2,
+  "100-0 km/h":42.2,
+  "100-200 km/h":22.7,
+  "60-0 mph":127.1,
+  "60-100 mph":9.8,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.228
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":0.931,
+  "Config Type":"Factory",
+  "Configuration":"Luxe 3.5 AWD (A)",
+  "Description":"Luxury trim with alloy wheels, sold to the general public",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":9000,
+  "Power":284,
+  "PowerPeakRPM":5850,
+  "Propulsion":"ICE",
+  "Top Speed":55.93423352,
+  "Torque":365,
+  "TorquePeakRPM":"3400 - 4550",
+  "Transmission":"Automatic",
+  "Value":33800,
+  "Weight":1970,
+  "Weight/Power":6.936619718,
+  "defaultPaintName1":"Dusted Mica"
+}

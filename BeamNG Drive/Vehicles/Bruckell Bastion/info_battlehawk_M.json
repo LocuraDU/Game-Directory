@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":5.1,
+  "0-100 mph":9,
+  "0-200 km/h":13,
+  "0-200 mph":63.6,
+  "0-300 km/h":36.6,
+  "0-60 mph":4.9,
+  "100-0 km/h":36.6,
+  "100-200 km/h":7.8,
+  "60-0 mph":111.5,
+  "60-100 mph":4,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.178,
+      -0.223
+    ],
+    [
+      1.265,
+      2.972,
+      1.252
+    ]
+  ],
+  "Braking G":1.075,
+  "Config Type":"Factory",
+  "Configuration":"Battlehawk (M)",
+  "Description":"An extremely powerful muscle car, sold to the general public, surprisingly",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":25,
+  "Performance Class":"4",
+  "Population":1000,
+  "Power":717,
+  "PowerPeakRPM":"5250 - 5900",
+  "Propulsion":"ICE",
+  "Top Speed":90.43176908,
+  "Torque":1020,
+  "TorquePeakRPM":"3650 - 4750",
+  "Transmission":"Manual",
+  "Value":70200,
+  "Weight":2105,
+  "Weight/Power":2.935843794,
+  "defaultPaintName1":"Goblin Green",
+  "defaultPaintName2":"Satin Black",
+  "defaultPaintName3":"Satin Gray"
+}

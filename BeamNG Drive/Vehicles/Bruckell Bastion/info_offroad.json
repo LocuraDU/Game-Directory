@@ -1,0 +1,42 @@
+{
+  "0-100 km/h":5.1,
+  "0-100 mph":12.3,
+  "0-200 km/h":20.4,
+  "0-60 mph":4.9,
+  "100-0 km/h":43,
+  "100-200 km/h":15.2,
+  "60-0 mph":129.9,
+  "60-100 mph":7.4,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.148,
+      -0.238
+    ],
+    [
+      1.265,
+      2.902,
+      1.252
+    ]
+  ],
+  "Braking G":0.914,
+  "Config Type":"Custom",
+  "Configuration":"Off-Road (A)",
+  "Description":"We put large heavy wheels and tires on a car not designed for it. But it'll be fine, probably",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":34,
+  "Population":2,
+  "Power":376,
+  "PowerPeakRPM":"5700 - 6300",
+  "Propulsion":"ICE",
+  "Top Speed":73.26141976,
+  "Torque":500,
+  "TorquePeakRPM":"3700 - 4850",
+  "Transmission":"Automatic",
+  "Value":42000,
+  "Weight":2055,
+  "Weight/Power":5.465425532,
+  "defaultPaintName1":"Army Green"
+}

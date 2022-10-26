@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":5.2,
+  "0-100 mph":11.3,
+  "0-200 km/h":18.1,
+  "0-60 mph":4.9,
+  "100-0 km/h":35.3,
+  "100-200 km/h":12.9,
+  "60-0 mph":107.3,
+  "60-100 mph":6.4,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.233
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":1.115,
+  "Config Type":"Factory",
+  "Configuration":"Sport 5.7 (A)",
+  "Description":"Entry level V8 sport model",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":7000,
+  "Power":374,
+  "PowerPeakRPM":"4950 - 5900",
+  "Propulsion":"ICE",
+  "Top Speed":63.3094697,
+  "Torque":550,
+  "TorquePeakRPM":"3800 - 4800",
+  "Transmission":"Automatic",
+  "Value":41300,
+  "Weight":1955,
+  "Weight/Power":5.227272727,
+  "defaultPaintName1":"Vibrant Red"
+}

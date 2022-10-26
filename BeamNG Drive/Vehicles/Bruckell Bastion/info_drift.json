@@ -1,0 +1,44 @@
+{
+  "0-100 km/h":5.6,
+  "0-100 mph":10.1,
+  "0-200 km/h":15.1,
+  "0-300 km/h":53,
+  "0-60 mph":5.4,
+  "100-0 km/h":35.2,
+  "100-200 km/h":9.5,
+  "60-0 mph":106.9,
+  "60-100 mph":4.7,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.148,
+      -0.223
+    ],
+    [
+      1.265,
+      2.902,
+      1.252
+    ]
+  ],
+  "Braking G":1.118,
+  "Config Type":"Custom",
+  "Configuration":"Drift (M)",
+  "Description":"Bastion drift recipe: Add steering lock, paint it a weird color",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":25,
+  "Performance Class":"6",
+  "Population":2,
+  "Power":599,
+  "PowerPeakRPM":"5250 - 5950",
+  "Propulsion":"ICE",
+  "Top Speed":86.28467608,
+  "Torque":850,
+  "TorquePeakRPM":"3500 - 4700",
+  "Transmission":"Manual",
+  "Value":76000,
+  "Weight":2115,
+  "Weight/Power":3.530884808,
+  "defaultPaintName1":"Harvest Gold"
+}

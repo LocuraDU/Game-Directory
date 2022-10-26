@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":6.1,
+  "0-100 mph":12.7,
+  "0-200 km/h":20.7,
+  "0-60 mph":5.9,
+  "100-0 km/h":36.1,
+  "100-200 km/h":14.6,
+  "60-0 mph":109.9,
+  "60-100 mph":6.8,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.233
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":1.09,
+  "Config Type":"Factory",
+  "Configuration":"Sport 5.7 (M)",
+  "Description":"Entry level V8 sport model",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":4000,
+  "Power":374,
+  "PowerPeakRPM":"4950 - 5900",
+  "Propulsion":"ICE",
+  "Top Speed":63.33082788,
+  "Torque":550,
+  "TorquePeakRPM":"3800 - 4800",
+  "Transmission":"Manual",
+  "Value":41900,
+  "Weight":1940,
+  "Weight/Power":5.187165775,
+  "defaultPaintName1":"Flame Orange"
+}

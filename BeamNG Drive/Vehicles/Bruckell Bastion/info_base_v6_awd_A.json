@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":6.6,
+  "0-100 mph":16.1,
+  "0-200 km/h":28.7,
+  "0-60 mph":6.2,
+  "100-0 km/h":40.5,
+  "100-200 km/h":22.1,
+  "60-0 mph":124.5,
+  "60-100 mph":9.8,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.223
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":0.971,
+  "Config Type":"Factory",
+  "Configuration":"SE 3.5 AWD (A)",
+  "Description":"Standard trim with alloy wheels, sold to the general public",
+  "Drivetrain":"AWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":28,
+  "Performance Class":"4",
+  "Population":10000,
+  "Power":284,
+  "PowerPeakRPM":5850,
+  "Propulsion":"ICE",
+  "Top Speed":56.01067486,
+  "Torque":365,
+  "TorquePeakRPM":"3400 - 4550",
+  "Transmission":"Automatic",
+  "Value":31700,
+  "Weight":1975,
+  "Weight/Power":6.954225352,
+  "defaultPaintName1":"Pearl White"
+}

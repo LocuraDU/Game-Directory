@@ -1,0 +1,45 @@
+{
+  "0-100 km/h":5,
+  "0-100 mph":10.3,
+  "0-200 km/h":15.9,
+  "0-60 mph":4.7,
+  "100-0 km/h":36.1,
+  "100-200 km/h":10.9,
+  "60-0 mph":110.1,
+  "60-100 mph":5.5,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.223
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":1.089,
+  "Config Type":"Factory",
+  "Configuration":"Sport GT 6.5 (A)",
+  "Description":"A sport model with a bit more everything",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"4",
+  "Population":5000,
+  "Power":488,
+  "PowerPeakRPM":5600,
+  "Propulsion":"ICE",
+  "Top Speed":63.32648344,
+  "Torque":640,
+  "TorquePeakRPM":"3350 - 5050",
+  "Transmission":"Automatic",
+  "Value":52600,
+  "Weight":2075,
+  "Weight/Power":4.25204918,
+  "defaultPaintName1":"Solar Yellow",
+  "defaultPaintName2":"Solar Yellow",
+  "defaultPaintName3":"Carbon Gray"
+}

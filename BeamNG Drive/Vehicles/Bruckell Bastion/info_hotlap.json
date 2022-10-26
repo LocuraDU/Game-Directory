@@ -1,0 +1,43 @@
+{
+  "0-100 km/h":4,
+  "0-100 mph":8.1,
+  "0-200 km/h":12.3,
+  "0-60 mph":3.9,
+  "100-0 km/h":30.7,
+  "100-200 km/h":8.2,
+  "60-0 mph":92.5,
+  "60-100 mph":4.2,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.253,
+      -0.223
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":1.28,
+  "Config Type":"Factory",
+  "Configuration":"Hotlap Special (M)",
+  "Description":"Built up from a lowly Sport 5.7 model, this one now goes fast around corners",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":21,
+  "Performance Class":"6",
+  "Population":5,
+  "Power":613,
+  "PowerPeakRPM":"4850 - 5550",
+  "Propulsion":"ICE",
+  "Top Speed":82.7346916,
+  "Torque":910,
+  "TorquePeakRPM":"3900 - 4850",
+  "Transmission":"Manual",
+  "Value":62400,
+  "Weight":2010,
+  "Weight/Power":3.278955954,
+  "defaultPaintName1":"Super Blue"
+}

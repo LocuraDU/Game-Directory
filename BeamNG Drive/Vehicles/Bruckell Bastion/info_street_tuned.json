@@ -1,0 +1,44 @@
+{
+  "0-100 km/h":4.7,
+  "0-100 mph":8.9,
+  "0-200 km/h":13,
+  "0-300 km/h":44.3,
+  "0-60 mph":4.5,
+  "100-0 km/h":34.7,
+  "100-200 km/h":8.2,
+  "60-0 mph":105.3,
+  "60-100 mph":4.3,
+  "BoundingBox":[
+    [
+      -0.865,
+      -2.138,
+      -0.227
+    ],
+    [
+      1.265,
+      2.937,
+      1.252
+    ]
+  ],
+  "Braking G":1.134,
+  "Config Type":"Factory",
+  "Configuration":"Street Tuned (A)",
+  "Description":"Custom turbocharged V6 model with a widebody",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"Turbo + N2O",
+  "Off-Road Score":24,
+  "Performance Class":"4",
+  "Population":5,
+  "Power":657,
+  "PowerPeakRPM":"5900 - 6550",
+  "Propulsion":"ICE",
+  "Top Speed":86.46072035,
+  "Torque":825,
+  "TorquePeakRPM":"3000 - 4650",
+  "Transmission":"Automatic",
+  "Value":55100,
+  "Weight":1970,
+  "Weight/Power":2.99847793,
+  "defaultPaintName1":"Ocean Blue"
+}
