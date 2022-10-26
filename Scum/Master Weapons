@@ -32,6 +32,7 @@ Desert Eagle .50 Gold	- #spawnitem BPC_Weapon_DEagle_50Gold
 Desert Eagle .357 Silver - #spawnitem BPC_Weapon_Deagle_357
 HS HS9 - #spawnitem BP_Weapon_HS9 
 HS SF19 - #spawnitem BP_Weapon_SF19
+HS VHS 2 - #SpawnItem BP_Weapon_VHS2_Rail 
 HS VHS 2 CT - #spawnitem BP_Weapon_VHS2 
 HS VHS 2 BG - #spawnitem BP_Weapon_VHS_BG
 Kalashnikov AK-47 - #spawnitem BP_Weapon_AK47 
