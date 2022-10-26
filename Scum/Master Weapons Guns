@@ -1,31 +1,31 @@
-Colt M1911 - #spawnitem BPC_Weapon_M1911 - (Image:Yes)
-Colt M1911 JayW - #spawnitem BPC_Weapon_M1911_JayW - (Image:Yes)
-Colt M1911 Gold - #spawnitem BPC_Weapon_M1911_Gold - (Image:Yes)
-Colt M1911 Engraved - #spawnitem BPC_Weapon_M1911_Engraved - (Image:Yes)
+Colt M1911 - #spawnitem BPC_Weapon_M1911
+Colt M1911 JayW - #spawnitem BPC_Weapon_M1911_JayW
+Colt M1911 Gold - #spawnitem BPC_Weapon_M1911_Gold
+Colt M1911 Engraved - #spawnitem BPC_Weapon_M1911_Engraved
 Colt M16 A4 - #spawnitem BP_Weapon_M16A4
 Colt Judge .44 - #spawnitem BPC_Weapon_Judge44
 Colt .38 Peace Keeper - #spawnitem BPC_Weapon_PeaceKeeper38
 Colt Serpent 357 - #spawnitem BPC_Weapon_Serpent357
 Colt Viper  357 - #spawnitem BP_Weapon_Viper_M357
-Tula Arms AS Val - #spawnitem BP_Weapon_AS_Val - (Image:Yes)
+Tula Arms AS Val - #spawnitem BP_Weapon_AS_Val
 Tula Arms VSS VZ - #spawnitem BPC_Weapon_VSS_VZ 
 Tula Arms Mosin–Nagant M1891 - #spawnitem BP_Weapon_MosinNagan 
-Barrett M82A1 Silver - #spawnitem BP_Weapon_M82A1 - (Image:Yes) 
-Barrett M82A1 Snow - #spawnitem BPC_Weapon_M82A1_Snow - (Image:Yes) 
-Barrett M82A1 Desert - #spawnitem BPC_Weapon_M82A1_Desert - (Image:Yes) 
-Barrett M82A1 Black - #spawnitem BPC_Weapon_M82A1_Black - (Image:Yes) 
-Heckler & Koch MP5 - #spawnitem BP_Weapon_MP5 - (Image:Yes) 
-Heckler & Koch MP5 K - #spawnitem BPC_Weapon_MP5_K - (Image:Yes) 
-Heckler & Koch MP5 SD - #spawnitem BPC_Weapon_MP5_SD - (Image:Yes) 
+Barrett M82A1 Silver - #spawnitem BP_Weapon_M82A1
+Barrett M82A1 Snow - #spawnitem BPC_Weapon_M82A1_Snow
+Barrett M82A1 Desert - #spawnitem BPC_Weapon_M82A1_Desert
+Barrett M82A1 Black - #spawnitem BPC_Weapon_M82A1_Black
+Heckler & Koch MP5 - #spawnitem BP_Weapon_MP5
+Heckler & Koch MP5 K - #spawnitem BPC_Weapon_MP5_K
+Heckler & Koch MP5 SD - #spawnitem BPC_Weapon_MP5_SD 
 Heckler & Koch UMP-45 - #spawnitem BP_Magazine_UMP45 
-Accuracy International AWM Black - #spawnitem BP_Weapon_AWM - (Image:Yes)
-Accuracy International AWM Green - #spawnitem BP_Weapon_AWM_Green - (Image:Yes)
-Accuracy International AWM Snake - #spawnitem BP_Weapon_AWM_Snake - (Image:Yes)
-Accuracy International AWM Desert - #spawnitem BP_Weapon_AWM_Desert - (Image:Yes)
-Accuracy International AWP Black - #spawnitem BP_Weapon_AWP - (Image:)
-Accuracy International AWP Green - #spawnitem BP_Weapon_AWP_Green - (Image:)
-Accuracy International AWP Snake - #spawnitem BP_Weapon_AWP_Snake - (Image:)
-Accuracy International AWP Desert - #spawnitem BP_Weapon_AWP_Desert - (Image:)
+Accuracy International AWM Black - #spawnitem BP_Weapon_AWM
+Accuracy International AWM Green - #spawnitem BP_Weapon_AWM_Green
+Accuracy International AWM Snake - #spawnitem BP_Weapon_AWM_Snake
+Accuracy International AWM Desert - #spawnitem BP_Weapon_AWM_Desert 
+Accuracy International AWP Black - #spawnitem BP_Weapon_AWP
+Accuracy International AWP Green - #spawnitem BP_Weapon_AWP_Green
+Accuracy International AWP Snake - #spawnitem BP_Weapon_AWP_Snake
+Accuracy International AWP Desert - #spawnitem BP_Weapon_AWP_Desert
 Beretta M9 Black - #spawnitem BP_Weapon_M9  
 Beretta M9 Silver - #spawnitem BPC_Weapon_M9_Silver 
 Beretta DT11B - #spawnitem BP_Weapon_DT11B 
