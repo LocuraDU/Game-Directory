@@ -58,3 +58,6 @@ Mauser Karabiner 98k - #spawnitem BP_Weapon_98k_Karabiner
 Tech01 490 - #spawnitem BP_Weapon_590A11 
 Tech01 Flaregun - #spawnitem BP_Weapon_FlareGun
 Fabarm SDASS- #spawnitem BPC_Weapon_SDASS
+Improvised Shotgun - #spawnitem BP_Weapon_Improvised_Shotgun
+Improvised Handgun - #spawnitem BP_Weapon_Improvised_Handgun
+Improvised Grenade Launcher - #spawnitem BP_Weapon_ImprovisedGrenadeLauncher
