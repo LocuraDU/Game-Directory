@@ -1,3 +1,7 @@
+# Vehicles Notes
+### September 11, 2013
+- First Release
+# Vehicle Model Images
 ![](images/detective.jpg)
 ![](images/donk.jpg)
 ![](images/drag.jpg)
