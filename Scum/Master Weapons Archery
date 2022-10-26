@@ -1,1 +1,20 @@
-
+Improvised Bow 20# - #spawnitem Improvised_Bow
+Improvised Bow 25# - #spawnitem BPC_Improvised_Bow_25
+Improvised Bow 30# - #spawnitem BPC_Improvised_Bow_30
+Improvised Bow 35# - #spawnitem BPC_Improvised_Bow_35
+Scorpion 40# - #spawnitem Recurve_Bow
+Cobra 50# - #spawnitem BPC_Recurve_Bow_50
+Kodiak 60# - #spawnitem BPC_Recurve_Bow_60
+Predator 70# - #spawnitem BPC_Recurve_Bow_70
+Mohawk 80# - #spawnitem BPC_Recurve_Bow_80
+Blackhawk 90# - #spawnitem BPC_Recurve_Bow_90
+Ballista 100# - #spawnitem BPC_Recurve_Bow_100
+Compound Bow - #spawnitem Compound_B 
+Compound Bow - Desert - #spawnitem Compound_Bow_Desert 
+Compound Bow - Digital - #spawnitem Compound_Bow_Digital 
+Compound Bow - Woodland - #spawnitem Compound_Bow_Woodland
+Compound Bow - Snow - #spawnitem Compound_Bow_Snow 
+Compound Bow - US Scorpion - #spawnitem Compound_Bow_US_Scorpion
+Blackhawk Crossbow - #spawnitem BP_Weapon_BlackHawk_Crossbow
+Improvised Crossbow - #spawnitem BP_Weapon_Improvised_Crossbow
+The Rubber Rat-A-Tat - #spawnitem BP_Weapon_Improvised_AutoCrossbow
