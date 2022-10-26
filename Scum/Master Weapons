@@ -2,6 +2,10 @@ Colt M1911 - #spawnitem BPC_Weapon_M1911 - (Image:Yes)
 Colt M1911 JayW - #spawnitem BPC_Weapon_M1911_JayW - (Image:Yes)
 Colt M1911 Gold - #spawnitem BPC_Weapon_M1911_Gold - (Image:Yes)
 Colt M1911 Engraved - #spawnitem BPC_Weapon_M1911_Engraved - (Image:Yes)
+Colt M16 A4 - #spawnitem BP_Weapon_M16A4
+Colt Judge .44 - #spawnitem BPC_Weapon_Judge44
+Colt .38 Peace Keeper - #spawnitem BPC_Weapon_PeaceKeeper38
+Colt Viper M357 - #spawnitem BP_Weapon_Viper_M357
 Tula Arms AS Val - #spawnitem BP_Weapon_AS_Val - (Image:Yes)
 Tula Arms VSS VZ - #spawnitem BPC_Weapon_VSS_VZ 
 Tula Arms Mosin–Nagant M1891 - #spawnitem BP_Weapon_MosinNagan 
@@ -50,9 +54,5 @@ Winchester Model 85 - #spawnitem BP_Weapon_Hunter85_V2
 Winchester Model 85 Carbon - #spawnitem BP_Weapon_CarbonHunter 
 Winchester M1 Garand- #spawnitem BP_Weapon_M1_Garand
 Mauser Karabiner 98k - #spawnitem BP_Weapon_98k_Karabiner
-Colt M16 A4 - #spawnitem BP_Weapon_M16A4
-Colt Judge .44 - #spawnitem BPC_Weapon_Judge44
-Colt .38 Peace Keeper - #spawnitem BPC_Weapon_PeaceKeeper38
-Colt Viper M357 - #spawnitem BP_Weapon_Viper_M357
 Techo1 490 - #spawnitem BP_Weapon_590A11 
 Fabarm SDASS- #spawnitem BPC_Weapon_SDASS
