@@ -2,6 +2,8 @@ Improvised Bow 20# - #spawnitem Improvised_Bow
 Improvised Bow 25# - #spawnitem BPC_Improvised_Bow_25
 Improvised Bow 30# - #spawnitem BPC_Improvised_Bow_30
 Improvised Bow 35# - #spawnitem BPC_Improvised_Bow_35
+Improvised Crossbow - #spawnitem BP_Weapon_Improvised_Crossbow
+Improvised Auto Crossbow - The Rubber Rat-A-Tat - #spawnitem BP_Weapon_Improvised_AutoCrossbow
 Scorpion 40# - #spawnitem Recurve_Bow
 Cobra 50# - #spawnitem BPC_Recurve_Bow_50
 Kodiak 60# - #spawnitem BPC_Recurve_Bow_60
@@ -16,5 +18,3 @@ Compound Bow - Woodland - #spawnitem Compound_Bow_Woodland
 Compound Bow - Snow - #spawnitem Compound_Bow_Snow 
 Compound Bow - US Scorpion - #spawnitem Compound_Bow_US_Scorpion
 Blackhawk Crossbow - #spawnitem BP_Weapon_BlackHawk_Crossbow
-Improvised Crossbow - #spawnitem BP_Weapon_Improvised_Crossbow
-Improvised Auto Crossbow - The Rubber Rat-A-Tat - #spawnitem BP_Weapon_Improvised_AutoCrossbow
