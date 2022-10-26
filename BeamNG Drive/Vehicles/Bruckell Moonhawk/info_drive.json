@@ -1,0 +1,48 @@
+{
+  "0-100 km/h":6.9,
+  "0-100 mph":12.5,
+  "0-200 km/h":19.1,
+  "0-60 mph":6.7,
+  "100-0 km/h":39.1,
+  "100-200 km/h":12.2,
+  "60-0 mph":119.8,
+  "60-100 mph":5.8,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.243
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":1.006,
+  "Config Type":"Custom",
+  "Configuration":"Elite Custom (M)",
+  "Description":"Custom supercharged variant with body-colored trim and bumpers, heavy-duty suspension, and special wheels",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":34,
+  "Performance Class":"7",
+  "Population":10,
+  "Power":411,
+  "PowerPeakRPM":"3950 - 4650",
+  "Propulsion":"ICE",
+  "Top Speed":71.19726668,
+  "Torque":785,
+  "TorquePeakRPM":"2650 - 3550",
+  "Transmission":"Manual",
+  "Value":38500,
+  "Weight":1740,
+  "Weight/Power":4.233576642,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Elite Gray",
+  "defaultPaintName3":"Elite Gray"
+}

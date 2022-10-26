@@ -1,0 +1,49 @@
+{
+  "0-100 km/h":6.5,
+  "0-100 mph":14.8,
+  "0-200 km/h":27.5,
+  "0-60 mph":6.2,
+  "100-0 km/h":40.1,
+  "100-200 km/h":20.9,
+  "60-0 mph":123,
+  "60-100 mph":8.5,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.3065
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":0.981,
+  "Config Type":"Custom",
+  "Configuration":"Donk (A)",
+  "Description":"Probably the coolest ride in the hood - not the most agile, but the coolest",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":39,
+  "Performance Class":"4",
+  "Population":20,
+  "Power":293,
+  "PowerPeakRPM":"4900 - 5900",
+  "Propulsion":"ICE",
+  "Top Speed":62.04373301,
+  "Torque":455,
+  "TorquePeakRPM":"3550 - 4400",
+  "Transmission":"Automatic",
+  "Value":28000,
+  "Weight":1755,
+  "Weight/Power":5.989761092,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Rose Pink",
+  "defaultPaintName2":"Satin Gold",
+  "defaultPaintName3":"Satin Gold"
+}

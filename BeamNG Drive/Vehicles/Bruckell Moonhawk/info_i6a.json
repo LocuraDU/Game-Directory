@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":11,
+  "0-100 mph":41,
+  "0-60 mph":10.3,
+  "100-0 km/h":39.7,
+  "60-0 mph":118.9,
+  "60-100 mph":30.6,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.245
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":0.991,
+  "Config Type":"Factory",
+  "Configuration":"I6 (A)",
+  "Description":"Base inline 6 model from 1976-1978",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":35,
+  "Performance Class":"2",
+  "Population":3000,
+  "Power":151,
+  "PowerPeakRPM":4500,
+  "Propulsion":"ICE",
+  "Top Speed":47.51773868,
+  "Torque":320,
+  "TorquePeakRPM":1900,
+  "Transmission":"Automatic",
+  "Value":6000,
+  "Weight":1615,
+  "Weight/Power":10.69536424,
+  "Years":{
+    "max":1978,
+    "min":1976
+  },
+  "defaultPaintName1":"Steel Blue",
+  "defaultPaintName3":"Chrome"
+}

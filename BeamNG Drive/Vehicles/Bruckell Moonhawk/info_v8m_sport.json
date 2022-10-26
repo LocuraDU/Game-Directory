@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":9.6,
+  "0-100 mph":24.3,
+  "0-60 mph":8.6,
+  "100-0 km/h":39,
+  "60-0 mph":119.7,
+  "60-100 mph":15.7,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.23
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":1.007,
+  "Config Type":"Factory",
+  "Configuration":"V8 Sport (M)",
+  "Description":"The V8 Sport is equipped with heavy-duty suspension, a limited-slip differential, 4-barrel carburetors, and sport wheels and tires",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":34,
+  "Performance Class":"5",
+  "Population":500,
+  "Power":208,
+  "PowerPeakRPM":4350,
+  "Propulsion":"ICE",
+  "Top Speed":52.4614572,
+  "Torque":395,
+  "TorquePeakRPM":"2100 - 3100",
+  "Transmission":"Manual",
+  "Value":16000,
+  "Weight":1720,
+  "Weight/Power":8.269230769,
+  "Years":{
+    "max":1978,
+    "min":1976
+  },
+  "defaultPaintName1":"Bone White",
+  "defaultPaintName2":"Sky Blue"
+}

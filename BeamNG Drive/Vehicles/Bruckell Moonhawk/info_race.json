@@ -1,0 +1,49 @@
+{
+  "0-100 km/h":5.5,
+  "0-100 mph":10.7,
+  "0-200 km/h":16.3,
+  "0-60 mph":5.3,
+  "100-0 km/h":28,
+  "100-200 km/h":10.7,
+  "60-0 mph":86.2,
+  "60-100 mph":5.3,
+  "BoundingBox":[
+    [
+      -0.28,
+      -1.92,
+      -0.238
+    ],
+    [
+      1.82,
+      3.1,
+      1.16
+    ]
+  ],
+  "Braking G":1.406,
+  "Config Type":"Race",
+  "Configuration":"Track (M)",
+  "Description":"Equipped with race suspension, fender flares, a spoiler, and other race parts",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":27,
+  "Performance Class":"7",
+  "Population":20,
+  "Power":422,
+  "PowerPeakRPM":"5550 - 6300",
+  "Propulsion":"ICE",
+  "Top Speed":75.92442243,
+  "Torque":555,
+  "TorquePeakRPM":"4150 - 5300",
+  "Transmission":"Manual",
+  "Value":56000,
+  "Weight":1665,
+  "Weight/Power":3.94549763,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Citrus Orange",
+  "defaultPaintName2":"Jet Black",
+  "defaultPaintName3":"Jet Black"
+}

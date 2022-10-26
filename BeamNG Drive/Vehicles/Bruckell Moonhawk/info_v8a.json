@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":9.7,
+  "0-100 mph":27.8,
+  "0-60 mph":9.1,
+  "100-0 km/h":40.1,
+  "60-0 mph":122.9,
+  "60-100 mph":18.7,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.245
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":0.981,
+  "Config Type":"Factory",
+  "Configuration":"V8 (A)",
+  "Description":"Big-block V8 model from 1976-1978",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":35,
+  "Performance Class":"4",
+  "Population":2500,
+  "Power":184,
+  "PowerPeakRPM":"4000 - 4700",
+  "Propulsion":"ICE",
+  "Top Speed":52.47058344,
+  "Torque":385,
+  "TorquePeakRPM":"2050 - 2950",
+  "Transmission":"Automatic",
+  "Value":11500,
+  "Weight":1720,
+  "Weight/Power":9.347826087,
+  "Years":{
+    "max":1978,
+    "min":1976
+  },
+  "defaultPaintName1":"Sonoran Brown",
+  "defaultPaintName3":"Chrome"
+}

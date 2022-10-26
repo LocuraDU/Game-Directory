@@ -1,0 +1,51 @@
+{
+  "0-100 km/h":2.9,
+  "0-100 mph":4.6,
+  "0-200 km/h":5.9,
+  "0-200 mph":12.4,
+  "0-300 km/h":10.7,
+  "0-60 mph":2.8,
+  "100-0 km/h":30.6,
+  "100-200 km/h":3,
+  "60-0 mph":94.9,
+  "60-100 mph":1.8,
+  "BoundingBox":[
+    [
+      -0.28,
+      -1.92,
+      -0.268
+    ],
+    [
+      1.82,
+      3.84,
+      1.16
+    ]
+  ],
+  "Braking G":1.284,
+  "Config Type":"Custom",
+  "Configuration":"Drag (A)",
+  "Description":"The Drag version has a supercharged V8 and drag slicks, giving it enough power and grip to lift the front wheels",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":34,
+  "Performance Class":"6",
+  "Population":10,
+  "Power":1612,
+  "PowerPeakRPM":"5900 - 6550",
+  "Propulsion":"ICE",
+  "Top Speed":101.4882499,
+  "Torque":1935,
+  "TorquePeakRPM":"5200 - 6050",
+  "Transmission":"Automatic",
+  "Value":49000,
+  "Weight":1660,
+  "Weight/Power":1.029776675,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Clementine",
+  "defaultPaintName2":"Charcoal",
+  "defaultPaintName3":"Chrome"
+}

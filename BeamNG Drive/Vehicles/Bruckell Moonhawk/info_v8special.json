@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":8,
+  "0-100 mph":15.6,
+  "0-60 mph":7.2,
+  "100-0 km/h":38.7,
+  "60-0 mph":118.4,
+  "60-100 mph":8.4,
+  "BoundingBox":[
+    [
+      -0.28,
+      -1.92,
+      -0.23
+    ],
+    [
+      1.82,
+      3.1,
+      1.16
+    ]
+  ],
+  "Braking G":1.017,
+  "Config Type":"Factory",
+  "Configuration":"V8 Special (M)",
+  "Description":"Features a supercharged V8 and special integrated composite bumpers",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":34,
+  "Performance Class":"6",
+  "Population":150,
+  "Power":301,
+  "PowerPeakRPM":"3600 - 4300",
+  "Propulsion":"ICE",
+  "Top Speed":52.23728424,
+  "Torque":635,
+  "TorquePeakRPM":"2450 - 3200",
+  "Transmission":"Manual",
+  "Value":26000,
+  "Weight":1665,
+  "Weight/Power":5.531561462,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Cream",
+  "defaultPaintName2":"Maroon",
+  "defaultPaintName3":"Chrome"
+}

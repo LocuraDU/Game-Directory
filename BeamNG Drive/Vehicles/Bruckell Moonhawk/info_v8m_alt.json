@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":9.4,
+  "0-100 mph":27,
+  "0-60 mph":8.9,
+  "100-0 km/h":40.5,
+  "60-0 mph":124.2,
+  "60-100 mph":18,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.245
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":0.972,
+  "Config Type":"Factory",
+  "Configuration":"V8 (M)",
+  "Description":"Big-block V8 model from 1973-1975",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":35,
+  "Performance Class":"4",
+  "Population":1500,
+  "Power":184,
+  "PowerPeakRPM":"4000 - 4700",
+  "Propulsion":"ICE",
+  "Top Speed":53.85367967,
+  "Torque":385,
+  "TorquePeakRPM":"2050 - 2950",
+  "Transmission":"Manual",
+  "Value":13000,
+  "Weight":1720,
+  "Weight/Power":9.347826087,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Maroon",
+  "defaultPaintName3":"Chrome"
+}

@@ -1,0 +1,47 @@
+{
+  "0-100 km/h":7.6,
+  "0-100 mph":13.8,
+  "0-60 mph":6.9,
+  "100-0 km/h":39.2,
+  "60-0 mph":120.3,
+  "60-100 mph":6.9,
+  "BoundingBox":[
+    [
+      -0.28,
+      -2.03,
+      -0.23
+    ],
+    [
+      1.82,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":1.002,
+  "Config Type":"Powerglow",
+  "Configuration":"Powerglow",
+  "Description":"N/A",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"SC",
+  "Off-Road Score":34,
+  "Performance Class":"4",
+  "Population":0,
+  "Power":381,
+  "PowerPeakRPM":"3750 - 4450",
+  "Propulsion":"ICE",
+  "Top Speed":55.49300289,
+  "Torque":770,
+  "TorquePeakRPM":"2600 - 3350",
+  "Transmission":"Manual",
+  "Value":65000,
+  "Weight":1735,
+  "Weight/Power":4.553805774,
+  "Years":{
+    "max":1975,
+    "min":1973
+  },
+  "defaultPaintName1":"Charcoal",
+  "defaultPaintName2":"Moonlight",
+  "defaultPaintName3":"Chrome"
+}

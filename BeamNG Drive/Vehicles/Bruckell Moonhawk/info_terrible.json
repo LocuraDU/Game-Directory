@@ -1,0 +1,46 @@
+{
+  "0-100 km/h":10.7,
+  "0-100 mph":33.9,
+  "0-60 mph":10,
+  "100-0 km/h":37.3,
+  "60-0 mph":111.1,
+  "60-100 mph":23.8,
+  "BoundingBox":[
+    [
+      -0.25,
+      -1.96,
+      -0.248
+    ],
+    [
+      1.79,
+      3.3,
+      1.16
+    ]
+  ],
+  "Braking G":1.055,
+  "Config Type":"Custom",
+  "Configuration":"The Terrible (M)",
+  "Description":"Unnecessary components are removed to make this into an excellent dirt racer",
+  "Drivetrain":"RWD",
+  "Fuel Type":"Gasoline",
+  "Induction Type":"NA",
+  "Off-Road Score":35,
+  "Performance Class":"4",
+  "Population":100,
+  "Power":151,
+  "PowerPeakRPM":4500,
+  "Propulsion":"ICE",
+  "Top Speed":50.98591983,
+  "Torque":320,
+  "TorquePeakRPM":1900,
+  "Transmission":"Manual",
+  "Value":5500,
+  "Weight":1560,
+  "Weight/Power":10.33112583,
+  "Years":{
+    "max":1978,
+    "min":1973
+  },
+  "defaultPaintName1":"Aquamarine",
+  "defaultPaintName3":"Carbon Gray"
+}
